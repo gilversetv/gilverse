@@ -2,6 +2,19 @@
     font-family: 'dihhfont';
     src: url('BBCReithSans_A_Bd.ttf');
 }
+head {
+	background-color: #000000;
+	color: white;
+	background-image:url('../img/bannersmol.png');
+	background-position: top;
+	background-repeat: no-repeat;
+	margin: 0px;
+	padding: 0px;
+	font-weight:bold;
+	text-decoration:none;
+	color:white;
+    font-family: 'dihhfont';
+}
 body {
 	background-color: #000000;
 	color: white;
